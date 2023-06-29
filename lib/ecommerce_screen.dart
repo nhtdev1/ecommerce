@@ -15,7 +15,7 @@ class EcommerceScreen extends StatelessWidget {
             top: 10,
             left: 0,
             right: 0,
-            height: 120,
+            height: 100,
             // Adjust the height of the overlapping container as needed
             child: Container(
               color: const Color(0xFF175cd3),
